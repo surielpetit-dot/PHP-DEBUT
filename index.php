@@ -1,5 +1,5 @@
 <?php
-$titre = "Pitcherln";
+$titre = "Ma page web!";
 $salut = "Salut ";
 ?>
 <!DOCTYPE html>
@@ -49,4 +49,5 @@ if (isset($_POST['nom'])){
     
 
 }
+
 ?>
